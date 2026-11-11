@@ -1,0 +1,40 @@
+# Compilación de .NET
+**/bin/
+**/obj/
+artifacts/
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Bases de datos locales y archivos auxiliares de SQLite
+**/App_Data/
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Registros, secretos y resultados locales
+*.log
+.env
+.env.*
+!.env.example
+appsettings.Local.json
+postman/results/
+docs/evidencias/local/
+
+# Sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Paquete local de entrega; evita incluirlo en el repositorio
+/Entrega_Final_Tarea_2_2.zip

@@ -1,0 +1,25 @@
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Domain\bin\Release\net10.0\Bitacora.Domain.deps.json
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Domain\bin\Release\net10.0\Bitacora.Domain.dll
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Domain\bin\Release\net10.0\Bitacora.Domain.pdb
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Domain\obj\Release\net10.0\Bitacora.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Domain\obj\Release\net10.0\Bitacora.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Domain\obj\Release\net10.0\Bitacora.Domain.AssemblyInfo.cs
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Domain\obj\Release\net10.0\Bitacora.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Domain\obj\Release\net10.0\Bitacora.Domain.dll
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Domain\obj\Release\net10.0\refint\Bitacora.Domain.dll
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Domain\obj\Release\net10.0\Bitacora.Domain.pdb
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Domain\obj\Release\net10.0\ref\Bitacora.Domain.dll
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Domain\obj\Release\net10.0\Bitacora.5DAC09C2.Up2Date
+C:\Users\DELL\OneDrive - Alutech S.A. de C.V\PA UTH\2026_3_PA\Programacion Movil 1\Tarea_2.4\API_Bitacora_Campo\src\Bitacora.Domain\bin\Release\net10.0\Bitacora.Domain.deps.json
+C:\Users\DELL\OneDrive - Alutech S.A. de C.V\PA UTH\2026_3_PA\Programacion Movil 1\Tarea_2.4\API_Bitacora_Campo\src\Bitacora.Domain\bin\Release\net10.0\Bitacora.Domain.dll
+C:\Users\DELL\OneDrive - Alutech S.A. de C.V\PA UTH\2026_3_PA\Programacion Movil 1\Tarea_2.4\API_Bitacora_Campo\src\Bitacora.Domain\bin\Release\net10.0\Bitacora.Domain.pdb
+C:\Users\DELL\OneDrive - Alutech S.A. de C.V\PA UTH\2026_3_PA\Programacion Movil 1\Tarea_2.4\API_Bitacora_Campo\src\Bitacora.Domain\obj\Release\net10.0\Bitacora.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive - Alutech S.A. de C.V\PA UTH\2026_3_PA\Programacion Movil 1\Tarea_2.4\API_Bitacora_Campo\src\Bitacora.Domain\obj\Release\net10.0\Bitacora.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive - Alutech S.A. de C.V\PA UTH\2026_3_PA\Programacion Movil 1\Tarea_2.4\API_Bitacora_Campo\src\Bitacora.Domain\obj\Release\net10.0\Bitacora.Domain.AssemblyInfo.cs
+C:\Users\DELL\OneDrive - Alutech S.A. de C.V\PA UTH\2026_3_PA\Programacion Movil 1\Tarea_2.4\API_Bitacora_Campo\src\Bitacora.Domain\obj\Release\net10.0\Bitacora.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - Alutech S.A. de C.V\PA UTH\2026_3_PA\Programacion Movil 1\Tarea_2.4\API_Bitacora_Campo\src\Bitacora.Domain\obj\Release\net10.0\Bitacora.Domain.sourcelink.json
+C:\Users\DELL\OneDrive - Alutech S.A. de C.V\PA UTH\2026_3_PA\Programacion Movil 1\Tarea_2.4\API_Bitacora_Campo\src\Bitacora.Domain\obj\Release\net10.0\Bitacora.Domain.dll
+C:\Users\DELL\OneDrive - Alutech S.A. de C.V\PA UTH\2026_3_PA\Programacion Movil 1\Tarea_2.4\API_Bitacora_Campo\src\Bitacora.Domain\obj\Release\net10.0\refint\Bitacora.Domain.dll
+C:\Users\DELL\OneDrive - Alutech S.A. de C.V\PA UTH\2026_3_PA\Programacion Movil 1\Tarea_2.4\API_Bitacora_Campo\src\Bitacora.Domain\obj\Release\net10.0\Bitacora.Domain.pdb
+C:\Users\DELL\OneDrive - Alutech S.A. de C.V\PA UTH\2026_3_PA\Programacion Movil 1\Tarea_2.4\API_Bitacora_Campo\src\Bitacora.Domain\obj\Release\net10.0\ref\Bitacora.Domain.dll
+C:\Users\DELL\OneDrive - Alutech S.A. de C.V\PA UTH\2026_3_PA\Programacion Movil 1\Tarea_2.4\API_Bitacora_Campo\src\Bitacora.Domain\obj\Release\net10.0\Bitacora.5DAC09C2.Up2Date

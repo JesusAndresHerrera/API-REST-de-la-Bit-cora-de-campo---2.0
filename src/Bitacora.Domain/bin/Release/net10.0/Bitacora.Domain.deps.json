@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Bitacora.Domain/1.0.0": {
+        "runtime": {
+          "Bitacora.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bitacora.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Application\bin\Debug\net10.0\Bitacora.Application.deps.json
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Application\bin\Debug\net10.0\Bitacora.Application.dll
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Application\bin\Debug\net10.0\Bitacora.Application.pdb
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Application\bin\Debug\net10.0\Bitacora.Domain.dll
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Application\bin\Debug\net10.0\Bitacora.Domain.pdb
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Application\obj\Debug\net10.0\Bitacora.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Application\obj\Debug\net10.0\Bitacora.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Application\obj\Debug\net10.0\Bitacora.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Application\obj\Debug\net10.0\Bitacora.Application.AssemblyInfo.cs
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Application\obj\Debug\net10.0\Bitacora.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Application\obj\Debug\net10.0\Bitacora.FE46C571.Up2Date
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Application\obj\Debug\net10.0\Bitacora.Application.dll
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Application\obj\Debug\net10.0\refint\Bitacora.Application.dll
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Application\obj\Debug\net10.0\Bitacora.Application.pdb
+C:\Users\DELL\Desktop\API_Bitacora_Campo\src\Bitacora.Application\obj\Debug\net10.0\ref\Bitacora.Application.dll

@@ -1,0 +1,3 @@
+C:\Users\DELL\Desktop\API_Bitacora_Campo\publish\Bitacora.Domain.dll
+C:\Users\DELL\Desktop\API_Bitacora_Campo\publish\Bitacora.Domain.deps.json
+C:\Users\DELL\Desktop\API_Bitacora_Campo\publish\Bitacora.Domain.pdb

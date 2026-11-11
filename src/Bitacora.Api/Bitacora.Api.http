@@ -1,0 +1,50 @@
+# Ejemplos manuales de los cinco endpoints de Bitácora.
+# Ejecuta primero el POST y reemplaza registroId por el Id que devuelva.
+# Para las pruebas automatizadas completas, usa la colección de la carpeta postman.
+@baseUrl = http://localhost:5106
+@registroId = 0
+
+### Crear un registro (201 y Location)
+POST {{baseUrl}}/api/registros
+Accept: application/json
+Content-Type: application/json
+
+{
+  "titulo": "Observación del río",
+  "descripcion": "Se observó agua turbia después de la lluvia.",
+  "fotoBase64": null
+}
+
+### Listar sin el contenido de las fotografías (200)
+GET {{baseUrl}}/api/registros
+Accept: application/json
+
+### Consultar un registro con fotografía (200 o 404)
+GET {{baseUrl}}/api/registros/{{registroId}}
+Accept: application/json
+
+### Actualizar el registro creado en el POST (204, 400 o 404)
+PUT {{baseUrl}}/api/registros/{{registroId}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "titulo": "Observación actualizada",
+  "descripcion": "Se añadió información de la visita.",
+  "fotoBase64": null
+}
+
+### Eliminar el registro creado para esta prueba (204 o 404)
+DELETE {{baseUrl}}/api/registros/{{registroId}}
+Accept: application/json
+
+### Ejemplo de validación: título demasiado corto (400)
+POST {{baseUrl}}/api/registros
+Accept: application/json
+Content-Type: application/json
+
+{
+  "titulo": "ab",
+  "descripcion": "Solicitud de prueba con título inválido.",
+  "fotoBase64": null
+}
